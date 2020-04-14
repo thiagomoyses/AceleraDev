@@ -1,9 +1,9 @@
 #Apresentaçao
 '''
 Criador: Thiago da Silva Moyses
-Git: budismo - https://github.com/budismo
-Versão: 1.0
-08/03/2020 - 17:53
+Git: Thiago Moyses - https://github.com/thiagomoyses
+Versão: 1.2
+14/04/2020 - 15:08
 '''
 #bibliotecas
 import requests
